@@ -2,6 +2,7 @@
 
 <div align="center">
 
+> [!IMPORTANT]
 > **Disclaimer**: This project is not affiliated with, endorsed by, or connected to Zero or Mail-0 in any way. This is an unofficial, community-driven project.
 
 A Tauri-based desktop app for Zero, the privacy-first email client.
@@ -16,9 +17,11 @@ A Tauri-based desktop app for Zero, the privacy-first email client.
 
 This is an unofficial desktop application wrapper for Zero, built using Tauri. Zero is a privacy-first email client that puts your security and privacy first.
 
-> ⚠️ **Note**: Currently this is a simple webview wrapper for the Zero website. Future versions may include deeper native integration.
+> [!NOTE]
+> Currently this is a simple webview wrapper for the Zero website. Future versions may include deeper native integration.
 
-> **<u>Do not be impressed</u>**. This is just a single line in the tauri config 😂
+> [!WARNING]
+> **Do not be impressed**. This is just a single line in the tauri config 😂
 
 ## 🛠️ Prerequisites
 
