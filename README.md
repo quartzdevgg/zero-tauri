@@ -1,9 +1,11 @@
 # Zero Tauri
 
-<div align="center">
 
 > [!IMPORTANT]
 > **Disclaimer**: This project is not affiliated with, endorsed by, or connected to Zero or Mail-0 in any way. This is an unofficial, community-driven project.
+
+<div align="center">
+
 
 A Tauri-based desktop app for Zero, the privacy-first email client.
 
