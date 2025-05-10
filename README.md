@@ -2,7 +2,7 @@
 
 
 > [!IMPORTANT]
-> **Disclaimer**: This project is not affiliated with, endorsed by, or connected to Zero or Mail-0 in any way. This is an unofficial, community-driven project.
+> **Disclaimer**: This project is not affiliated with, endorsed by, or connected to Zero or Mail-0 in any way
 
 <div align="center">
 
